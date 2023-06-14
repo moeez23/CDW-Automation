@@ -3,4 +3,5 @@ export default {
     emailInput: "#input-29",
     passwordInput: "#password",
     loginButton: ".v-card__actions > .font-md",
+    testing: "abc"
   };
