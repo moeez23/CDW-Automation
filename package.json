@@ -1,0 +1,14 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "CDW-Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Tester",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.14.0"
+  }
+}
