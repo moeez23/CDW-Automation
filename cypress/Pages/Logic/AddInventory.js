@@ -17,6 +17,7 @@ class AddInventory{
         AddInventorySelectorClass.ChooseAutoPopulateInventory();
         AddInventorySelectorClass.ClickOnGoButton();
         AddInventorySelectorClass.EnterPrice();
+        cy.wait(1000)
         AddInventorySelectorClass.ScrollToFeatureSection();
         AddInventorySelectorClass.ClickOnConditionField();
         AddInventorySelectorClass.SelectConditionForInventory();
